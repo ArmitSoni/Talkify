@@ -50,9 +50,6 @@ talkify/
 │ │ └── 📄 App.jsx
 └── 📄 package.json
 
-yaml
-Copy code
-
 ---
 
 ## 🚀 Getting Started
